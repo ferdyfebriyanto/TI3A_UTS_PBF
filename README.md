@@ -1,4 +1,4 @@
-# KUIS 1 - PEMOGRAMAN BERBASIS FRAMEWORK TI-3A
+# UTS - PEMOGRAMAN BERBASIS FRAMEWORK TI-3A
 
 ## Anggota Kelompok
 
@@ -8,6 +8,6 @@
 
 ## Tugas
 
-> Buatlah program menggunakan Fake API (JSON Server) tentang pendataan anggota kelompok anda. Atribut-atribut yang ada dari mahasiswa adalah NIM, nama, alamat, no HP, tahun Angkatan, dan pembagian kerja. Buatlah aplikasi yang menggunakan API dengan method GET, DELETE, dan POST.
-
-
+> kembangkanlah project spa yang telah kalian buat pada kuis 1 dengan menerapkan konsep router, redux, dan hoc
+> Gunakan github, contribution pada github akan menentukan penilaian
+> Buat laporan berisi screenshot penerapan router, redux, dan hoc, penjelasan kode program, dan link github projek
